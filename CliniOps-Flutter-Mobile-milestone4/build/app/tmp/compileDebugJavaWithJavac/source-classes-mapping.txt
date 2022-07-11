@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/cliniops/connect/BuildConfig.java
+ com.cliniops.connect.BuildConfig

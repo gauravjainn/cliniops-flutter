@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/quadir/StudioProjects/CliniOps-Flutter-Mobile/build/path_provider_android/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/quadir/.gradle/caches/transforms-2/files-2.1/cd7666106832315e0a045f7af54fcf07/core-1.6.0/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/quadir/StudioProjects/CliniOps-Flutter-Mobile/build/path_provider_android/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/quadir/.gradle/caches/transforms-2/files-2.1/cd7666106832315e0a045f7af54fcf07/core-1.6.0/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/quadir/StudioProjects/CliniOps-Flutter-Mobile/build/path_provider_android/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/quadir/.gradle/caches/transforms-2/files-2.1/cd7666106832315e0a045f7af54fcf07/core-1.6.0/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/quadir/StudioProjects/CliniOps-Flutter-Mobile/build/path_provider_android/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/quadir/.gradle/caches/transforms-2/files-2.1/cd7666106832315e0a045f7af54fcf07/core-1.6.0/res/layout-v21/notification_action.xml"
+    }
+]

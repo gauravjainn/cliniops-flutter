@@ -1,0 +1,155 @@
+{
+  "project_info": {
+    "project_number": "886540656445",
+    "firebase_url": "https://connect-f3c7c-default-rtdb.firebaseio.com",
+    "project_id": "connect-f3c7c",
+    "storage_bucket": "connect-f3c7c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886540656445:android:001dc0809867de2b17af54",
+        "android_client_info": {
+          "package_name": "com.cliniops.connect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "886540656445-29ol2m3hlgqrf4bt3kc19j1l07ivpim6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGuFGy7BfryNbn3rxDuowtfdjthL1lzj0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "886540656445-29ol2m3hlgqrf4bt3kc19j1l07ivpim6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "886540656445-87ophm4squ51s9g1ssn3n0p19cc72ime.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.cliniops.connect"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886540656445:android:94e4fe9b0486660617af54",
+        "android_client_info": {
+          "package_name": "com.cliniops.connect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "886540656445-29ol2m3hlgqrf4bt3kc19j1l07ivpim6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGuFGy7BfryNbn3rxDuowtfdjthL1lzj0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "886540656445-29ol2m3hlgqrf4bt3kc19j1l07ivpim6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "886540656445-87ophm4squ51s9g1ssn3n0p19cc72ime.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.cliniops.connect"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886540656445:android:2e43101d3430b1ad17af54",
+        "android_client_info": {
+          "package_name": "com.connectycube.flutter.chat_sample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "886540656445-29ol2m3hlgqrf4bt3kc19j1l07ivpim6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGuFGy7BfryNbn3rxDuowtfdjthL1lzj0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "886540656445-29ol2m3hlgqrf4bt3kc19j1l07ivpim6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "886540656445-87ophm4squ51s9g1ssn3n0p19cc72ime.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.cliniops.connect"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886540656445:android:86772da40de5495517af54",
+        "android_client_info": {
+          "package_name": "com.example.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "886540656445-29ol2m3hlgqrf4bt3kc19j1l07ivpim6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGuFGy7BfryNbn3rxDuowtfdjthL1lzj0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "886540656445-29ol2m3hlgqrf4bt3kc19j1l07ivpim6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "886540656445-87ophm4squ51s9g1ssn3n0p19cc72ime.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.cliniops.connect"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
